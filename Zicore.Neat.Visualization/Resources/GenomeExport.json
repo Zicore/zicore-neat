@@ -1,0 +1,576 @@
+{
+  "Fitness": 3.99888968,
+  "GenomeId": 47794,
+  "Connections": [
+    {
+      "Input": 1,
+      "Output": 4,
+      "Weight": -0.0333269835,
+      "InnovationNumber": 1,
+      "Enabled": false
+    },
+    {
+      "Input": 1,
+      "Output": 183,
+      "Weight": 1.26624715,
+      "InnovationNumber": 395,
+      "Enabled": false
+    },
+    {
+      "Input": 2,
+      "Output": 4,
+      "Weight": -0.266702771,
+      "InnovationNumber": 2,
+      "Enabled": true
+    },
+    {
+      "Input": 2,
+      "Output": 183,
+      "Weight": -3.8548696,
+      "InnovationNumber": 429,
+      "Enabled": true
+    },
+    {
+      "Input": 2,
+      "Output": 432,
+      "Weight": -0.000951830356,
+      "InnovationNumber": 940,
+      "Enabled": false
+    },
+    {
+      "Input": 2,
+      "Output": 911,
+      "Weight": -1.4631741,
+      "InnovationNumber": 2923,
+      "Enabled": true
+    },
+    {
+      "Input": 3,
+      "Output": 4,
+      "Weight": 1.5506,
+      "InnovationNumber": 3,
+      "Enabled": true
+    },
+    {
+      "Input": 3,
+      "Output": 33,
+      "Weight": 5.5751276,
+      "InnovationNumber": 126,
+      "Enabled": false
+    },
+    {
+      "Input": 3,
+      "Output": 351,
+      "Weight": 1.76192653,
+      "InnovationNumber": 762,
+      "Enabled": true
+    },
+    {
+      "Input": 3,
+      "Output": 911,
+      "Weight": 1.00861859,
+      "InnovationNumber": 2225,
+      "Enabled": true
+    },
+    {
+      "Input": 4,
+      "Output": 33,
+      "Weight": 1.30414414,
+      "InnovationNumber": 108,
+      "Enabled": false
+    },
+    {
+      "Input": 33,
+      "Output": 3,
+      "Weight": -0.603688359,
+      "InnovationNumber": 106,
+      "Enabled": true
+    },
+    {
+      "Input": 33,
+      "Output": 2,
+      "Weight": -1.31906414,
+      "InnovationNumber": 127,
+      "Enabled": false
+    },
+    {
+      "Input": 33,
+      "Output": 183,
+      "Weight": -0.631476,
+      "InnovationNumber": 530,
+      "Enabled": false
+    },
+    {
+      "Input": 33,
+      "Output": 102,
+      "Weight": -0.294168353,
+      "InnovationNumber": 269,
+      "Enabled": true
+    },
+    {
+      "Input": 33,
+      "Output": 590,
+      "Weight": 2.142729,
+      "InnovationNumber": 2049,
+      "Enabled": false
+    },
+    {
+      "Input": 33,
+      "Output": 789,
+      "Weight": -0.444370747,
+      "InnovationNumber": 2080,
+      "Enabled": false
+    },
+    {
+      "Input": 33,
+      "Output": 1110,
+      "Weight": -1.53487194,
+      "InnovationNumber": 2504,
+      "Enabled": false
+    },
+    {
+      "Input": 33,
+      "Output": 1318,
+      "Weight": 1.0,
+      "InnovationNumber": 3083,
+      "Enabled": true
+    },
+    {
+      "Input": 102,
+      "Output": 4,
+      "Weight": -3.11693573,
+      "InnovationNumber": 223,
+      "Enabled": false
+    },
+    {
+      "Input": 102,
+      "Output": 33,
+      "Weight": -0.0573698431,
+      "InnovationNumber": 470,
+      "Enabled": false
+    },
+    {
+      "Input": 102,
+      "Output": 351,
+      "Weight": 0.7204527,
+      "InnovationNumber": 933,
+      "Enabled": false
+    },
+    {
+      "Input": 102,
+      "Output": 451,
+      "Weight": 1.83515954,
+      "InnovationNumber": 981,
+      "Enabled": false
+    },
+    {
+      "Input": 102,
+      "Output": 598,
+      "Weight": 0.4414897,
+      "InnovationNumber": 1290,
+      "Enabled": false
+    },
+    {
+      "Input": 102,
+      "Output": 1033,
+      "Weight": -0.251314044,
+      "InnovationNumber": 2319,
+      "Enabled": true
+    },
+    {
+      "Input": 102,
+      "Output": 1060,
+      "Weight": 0.9180188,
+      "InnovationNumber": 2382,
+      "Enabled": true
+    },
+    {
+      "Input": 102,
+      "Output": 789,
+      "Weight": -0.619735837,
+      "InnovationNumber": 2517,
+      "Enabled": true
+    },
+    {
+      "Input": 183,
+      "Output": 4,
+      "Weight": -0.313382864,
+      "InnovationNumber": 396,
+      "Enabled": false
+    },
+    {
+      "Input": 183,
+      "Output": 766,
+      "Weight": 1.39599168,
+      "InnovationNumber": 1899,
+      "Enabled": true
+    },
+    {
+      "Input": 183,
+      "Output": 2,
+      "Weight": -3.44635337E-05,
+      "InnovationNumber": 460,
+      "Enabled": true
+    },
+    {
+      "Input": 351,
+      "Output": 33,
+      "Weight": -3.36156368,
+      "InnovationNumber": 763,
+      "Enabled": true
+    },
+    {
+      "Input": 351,
+      "Output": 183,
+      "Weight": -0.0108793136,
+      "InnovationNumber": 819,
+      "Enabled": false
+    },
+    {
+      "Input": 351,
+      "Output": 766,
+      "Weight": -0.852110147,
+      "InnovationNumber": 2543,
+      "Enabled": false
+    },
+    {
+      "Input": 432,
+      "Output": 4,
+      "Weight": 0.115398943,
+      "InnovationNumber": 941,
+      "Enabled": false
+    },
+    {
+      "Input": 432,
+      "Output": 590,
+      "Weight": -1.58305526,
+      "InnovationNumber": 1274,
+      "Enabled": false
+    },
+    {
+      "Input": 451,
+      "Output": 351,
+      "Weight": 1.269681,
+      "InnovationNumber": 982,
+      "Enabled": true
+    },
+    {
+      "Input": 590,
+      "Output": 4,
+      "Weight": -0.141958058,
+      "InnovationNumber": 1275,
+      "Enabled": false
+    },
+    {
+      "Input": 590,
+      "Output": 33,
+      "Weight": -0.0266015865,
+      "InnovationNumber": 1347,
+      "Enabled": false
+    },
+    {
+      "Input": 598,
+      "Output": 451,
+      "Weight": 0.0932059139,
+      "InnovationNumber": 1291,
+      "Enabled": false
+    },
+    {
+      "Input": 766,
+      "Output": 4,
+      "Weight": -0.20376727,
+      "InnovationNumber": 1664,
+      "Enabled": false
+    },
+    {
+      "Input": 766,
+      "Output": 806,
+      "Weight": 3.73502851,
+      "InnovationNumber": 1754,
+      "Enabled": false
+    },
+    {
+      "Input": 766,
+      "Output": 789,
+      "Weight": -5.65096426,
+      "InnovationNumber": 1717,
+      "Enabled": false
+    },
+    {
+      "Input": 766,
+      "Output": 1102,
+      "Weight": 1.0,
+      "InnovationNumber": 2484,
+      "Enabled": false
+    },
+    {
+      "Input": 766,
+      "Output": 1384,
+      "Weight": 1.0,
+      "InnovationNumber": 3279,
+      "Enabled": true
+    },
+    {
+      "Input": 789,
+      "Output": 432,
+      "Weight": -0.7338656,
+      "InnovationNumber": 3222,
+      "Enabled": true
+    },
+    {
+      "Input": 806,
+      "Output": 868,
+      "Weight": 1.65454042,
+      "InnovationNumber": 2287,
+      "Enabled": true
+    },
+    {
+      "Input": 842,
+      "Output": 590,
+      "Weight": 2.54803324,
+      "InnovationNumber": 1843,
+      "Enabled": false
+    },
+    {
+      "Input": 842,
+      "Output": 432,
+      "Weight": 0.851407051,
+      "InnovationNumber": 1955,
+      "Enabled": false
+    },
+    {
+      "Input": 868,
+      "Output": 590,
+      "Weight": 0.801481247,
+      "InnovationNumber": 1908,
+      "Enabled": false
+    },
+    {
+      "Input": 911,
+      "Output": 33,
+      "Weight": 1.86181283,
+      "InnovationNumber": 2019,
+      "Enabled": true
+    },
+    {
+      "Input": 982,
+      "Output": 33,
+      "Weight": -3.46895218,
+      "InnovationNumber": 2194,
+      "Enabled": true
+    },
+    {
+      "Input": 1046,
+      "Output": 4,
+      "Weight": -2.07295346,
+      "InnovationNumber": 2350,
+      "Enabled": false
+    },
+    {
+      "Input": 1046,
+      "Output": 432,
+      "Weight": 0.304026842,
+      "InnovationNumber": 3077,
+      "Enabled": true
+    },
+    {
+      "Input": 1060,
+      "Output": 451,
+      "Weight": 1.3987422,
+      "InnovationNumber": 2383,
+      "Enabled": true
+    },
+    {
+      "Input": 1060,
+      "Output": 982,
+      "Weight": -0.226908445,
+      "InnovationNumber": 3005,
+      "Enabled": true
+    },
+    {
+      "Input": 1194,
+      "Output": 102,
+      "Weight": -0.294168353,
+      "InnovationNumber": 2733,
+      "Enabled": true
+    },
+    {
+      "Input": 1318,
+      "Output": 1110,
+      "Weight": -1.53487194,
+      "InnovationNumber": 3084,
+      "Enabled": true
+    },
+    {
+      "Input": 1384,
+      "Output": 4,
+      "Weight": -0.303084135,
+      "InnovationNumber": 3280,
+      "Enabled": true
+    }
+  ],
+  "Nodes": [
+    {
+      "Type": 1,
+      "Value": 1.0,
+      "Id": 1,
+      "Calculated": false
+    },
+    {
+      "Type": 1,
+      "Value": 8.44356546E-05,
+      "Id": 2,
+      "Calculated": true
+    },
+    {
+      "Type": 1,
+      "Value": -0.183772311,
+      "Id": 3,
+      "Calculated": true
+    },
+    {
+      "Type": 2,
+      "Value": 0.03325123,
+      "Id": 4,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.125679165,
+      "Id": 33,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.617198467,
+      "Id": 102,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": -1.0,
+      "Id": 183,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.9999993,
+      "Id": 351,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 432,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.995296955,
+      "Id": 451,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 590,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 598,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": -0.9978629,
+      "Id": 766,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 842,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 806,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 789,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 868,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": -0.454814,
+      "Id": 982,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.985815346,
+      "Id": 911,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 1033,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 1046,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.8827675,
+      "Id": 1060,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 1110,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 1102,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 1194,
+      "Calculated": true
+    },
+    {
+      "Type": 4,
+      "Value": 0.0,
+      "Id": 1318,
+      "Calculated": false
+    },
+    {
+      "Type": 4,
+      "Value": -0.9850625,
+      "Id": 1384,
+      "Calculated": true
+    }
+  ]
+}
